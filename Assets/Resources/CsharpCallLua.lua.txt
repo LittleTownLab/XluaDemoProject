@@ -1,0 +1,5 @@
+str = "global var"
+number = 10
+local num = 20
+floNumber = 88.8
+IsFirstTime = true
